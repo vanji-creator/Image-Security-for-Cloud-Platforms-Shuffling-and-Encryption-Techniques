@@ -1,2 +1,2 @@
-# projectPhase2
-final year image encryption project phase 2
+Image Security for Cloud Platforms: Shuffling and Encryption Techniques
+
