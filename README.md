@@ -170,7 +170,8 @@ This research documents the theoretical foundations, implementation details, and
 
 ## Author
 
-Vanchi Vikash P M
+Vanchi Vikash P M (https://vanjivikash.vercel.app)
+linkedIN : https://www.linkedin.com/in/vanjivikash/
 ## License
 
 Educational project for secure image encryption research.
