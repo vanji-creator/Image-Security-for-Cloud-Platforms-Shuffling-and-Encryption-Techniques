@@ -170,8 +170,7 @@ This research documents the theoretical foundations, implementation details, and
 
 ## Author
 
-**Project Phase 2** - Image Security Implementation using Chaotic Techniques
-
+Vanchi Vikash P M
 ## License
 
 Educational project for secure image encryption research.
